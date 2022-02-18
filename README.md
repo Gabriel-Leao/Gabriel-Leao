@@ -1,4 +1,9 @@
 ## Hello, world! Eu sou o Gabriel 🦁
 
-- 🌱 Estudando: Javascript
+- 🌱 Estudando: Javascript & Python
 - 😄 Pronouns: ele/dele
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Leao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Leao&layout=compact&langs_count=7&theme=dracula"/>
+</div>
