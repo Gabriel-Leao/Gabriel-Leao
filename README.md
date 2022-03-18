@@ -1,4 +1,4 @@
-## Hello, world! Eu sou o Gabriel 🦁
+## Hello, world! I am Gabriel 🦁
 
 - 🌱 Estudando: Javascript & Java
 - 😄 Pronouns: ele/dele
