@@ -1,7 +1,7 @@
 ## Hello, world! I am Gabriel 🦁
 
-- 🌱 Estudando: Javascript & Java
-- 😄 Pronouns: ele/dele
+- 🌱 Studying: Javascript & Java
+- 😄 Pronouns: ele/he
 
 <div>
   <a href="https://github.com/Gabriel-Leao">
