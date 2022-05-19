@@ -1,5 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!)](https://git.io/typing-svg)<br>
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo+ao+meu+perfil+I+am+Gabriel+🦁)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo+ao+meu+perfil;I+am+Gabriel+🦁)](https://git.io/typing-svg)
 
 - 🌱 Studying: Javascript & Java
 - 😄 Pronouns: ele/he
