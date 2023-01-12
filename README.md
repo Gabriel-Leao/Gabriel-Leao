@@ -2,7 +2,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo+ao+meu+perfil;I+am+Gabriel+🦁)](https://git.io/typing-svg)
 
 - 🌱 Studying: Javascript & Java
-- 😄 Pronouns: ele/he
+- 😄 Pronouns: ele/he/lui
 <div>
   <a href="https://github.com/Gabriel-Leao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Leao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
