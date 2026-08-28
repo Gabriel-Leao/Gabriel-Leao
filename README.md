@@ -1,34 +1,40 @@
 # Hi, I'm Gabriel 🦁
 
-**Fullstack Developer** · Software Engineering student · Linux native
+**Full-Stack Developer** · Software Engineering student
 
-I build things for the web — mostly with TypeScript, Next.js, and Java.
-I care about interfaces that feel good to use and code that's easy to reason about.
+I build web applications, APIs, and integrations — mostly with Java, Spring Boot, Node.js, and TypeScript.
 
-Currently finishing my degree and spending the rest of my time on side projects and open source.
+I care about writing code that's easy to understand, maintain, and reason about.
+
+Currently finishing my degree and building side projects to explore backend development, databases, APIs, and software architecture.
 
 ---
 
 ### 🧰 Stack
 
+**Back-end**
+
+<table><tr>
+<td align="center"><img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"><br>Java</td>
+<td align="center"><img alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"><br>Spring Boot</td>
+<td align="center"><img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><br>Node.js</td>
+<td align="center"><img alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"><br>NestJS</td>
+<td align="center"><img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"><br>PostgreSQL</td>
+</tr></table>
+
 **Front-end**
 
 <table><tr>
-<td align="center"><img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>HTML</td>
-<td align="center"><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>CSS</td>
 <td align="center"><img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"><br>TypeScript</td>
 <td align="center"><img alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"><br>Next.js</td>
+<td align="center"><img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><br>React</td>
 <td align="center"><img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"><br>Angular</td>
 <td align="center"><img alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"><br>Tailwind</td>
 </tr></table>
 
-**Back-end & Tools**
+**Tools & Infrastructure**
 
 <table><tr>
-<td align="center"><img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"><br>Java</td>
-<td align="center"><img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"><br>PostgreSQL</td>
-<td align="center"><img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><br>Node.js</td>
-<td align="center"><img alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"><br>NestJS</td>
 <td align="center"><img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"><br>Docker</td>
 <td align="center"><img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><br>Git</td>
 <td align="center"><img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"><br>Linux</td>
